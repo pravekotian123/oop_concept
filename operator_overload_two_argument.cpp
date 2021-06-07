@@ -1,4 +1,4 @@
-/*                          Operator overloading
+        /*                  Operator overloading
         passing two arguement for biary operator using friend function
         */
 
